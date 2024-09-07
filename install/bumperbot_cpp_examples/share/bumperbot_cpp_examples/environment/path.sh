@@ -1,1 +1,0 @@
-/Users/danitruc/miniforge3/envs/ros2_env/share/ament_cmake_core/cmake/environment_hooks/environment/path.sh
