@@ -1,0 +1,27 @@
+[0.638s] Invoking command in '/Users/danitruc/bumperbot_ws/build/bumperbot_py_examples': PYTHONPATH=/Users/danitruc/bumperbot_ws/build/bumperbot_py_examples/prefix_override:/Users/danitruc/miniforge3/envs/ros2_env/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=2 _=/Users/danitruc/miniforge3/envs/ros2_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/danitruc/miniforge3/envs/ros2_env/bin/python3.11 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /Users/danitruc/bumperbot_ws/build/bumperbot_py_examples/build --no-deps symlink_data
+[0.883s] running develop
+[1.205s] running egg_info
+[1.205s] creating bumperbot_py_examples.egg-info
+[1.205s] writing bumperbot_py_examples.egg-info/PKG-INFO
+[1.209s] writing dependency_links to bumperbot_py_examples.egg-info/dependency_links.txt
+[1.210s] writing entry points to bumperbot_py_examples.egg-info/entry_points.txt
+[1.210s] writing requirements to bumperbot_py_examples.egg-info/requires.txt
+[1.210s] writing top-level names to bumperbot_py_examples.egg-info/top_level.txt
+[1.210s] writing manifest file 'bumperbot_py_examples.egg-info/SOURCES.txt'
+[1.214s] reading manifest file 'bumperbot_py_examples.egg-info/SOURCES.txt'
+[1.215s] writing manifest file 'bumperbot_py_examples.egg-info/SOURCES.txt'
+[1.216s] running build_ext
+[1.216s] Creating /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/python3.11/site-packages/bumperbot-py-examples.egg-link (link to .)
+[1.217s] Installing simple_parameter script to /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[1.218s] Installing simple_publisher script to /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[1.218s] Installing simple_subscriber script to /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[1.218s] Installing simple_turtlesim_kinematics script to /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/bumperbot_py_examples
+[1.220s] 
+[1.220s] Installed /Users/danitruc/bumperbot_ws/build/bumperbot_py_examples
+[1.222s] running symlink_data
+[1.222s] creating /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/share/ament_index
+[1.222s] creating /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/share/ament_index/resource_index
+[1.222s] creating /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/share/ament_index/resource_index/packages
+[1.222s] symbolically linking /Users/danitruc/bumperbot_ws/build/bumperbot_py_examples/resource/bumperbot_py_examples -> /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/share/ament_index/resource_index/packages
+[1.223s] symbolically linking /Users/danitruc/bumperbot_ws/build/bumperbot_py_examples/package.xml -> /Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/share/bumperbot_py_examples
+[1.279s] Invoked command in '/Users/danitruc/bumperbot_ws/build/bumperbot_py_examples' returned '0': PYTHONPATH=/Users/danitruc/bumperbot_ws/build/bumperbot_py_examples/prefix_override:/Users/danitruc/miniforge3/envs/ros2_env/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/python3.11/site-packages:${PYTHONPATH} SHLVL=2 _=/Users/danitruc/miniforge3/envs/ros2_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/danitruc/miniforge3/envs/ros2_env/bin/python3.11 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /Users/danitruc/bumperbot_ws/build/bumperbot_py_examples/build --no-deps symlink_data

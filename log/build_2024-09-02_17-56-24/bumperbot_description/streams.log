@@ -1,0 +1,44 @@
+[0.025s] Invoking command in '/Users/danitruc/bumperbot_ws/build/bumperbot_description': SHLVL=2 _=/Users/danitruc/miniforge3/envs/ros2_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/danitruc/miniforge3/envs/ros2_env/bin/cmake --build /Users/danitruc/bumperbot_ws/build/bumperbot_description -- -j8 -l8
+[0.137s] Invoked command in '/Users/danitruc/bumperbot_ws/build/bumperbot_description' returned '0': SHLVL=2 _=/Users/danitruc/miniforge3/envs/ros2_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/danitruc/miniforge3/envs/ros2_env/bin/cmake --build /Users/danitruc/bumperbot_ws/build/bumperbot_description -- -j8 -l8
+[0.211s] Invoking command in '/Users/danitruc/bumperbot_ws/build/bumperbot_description': SHLVL=2 _=/Users/danitruc/miniforge3/envs/ros2_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/danitruc/miniforge3/envs/ros2_env/bin/cmake --install /Users/danitruc/bumperbot_ws/build/bumperbot_description
+[0.226s] -- Install configuration: ""
+[0.229s] -- Execute custom install script
+[0.231s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch/display.launch.py
+[0.231s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/launch/gazebo.launch.py
+[0.231s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/base_link.STL
+[0.231s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/can.STL
+[0.232s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_front_link.STL
+[0.232s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/caster_rear_link.STL
+[0.232s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/imu_link.STL
+[0.232s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_left_link.STL
+[0.232s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/meshes/wheel_right_link.STL
+[0.233s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/ground_plane/model-1_2.sdf
+[0.233s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/ground_plane/model-1_3.sdf
+[0.233s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/ground_plane/model-1_4.sdf
+[0.233s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/ground_plane/model.config
+[0.233s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/ground_plane/model.sdf
+[0.234s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/sun/model-1_2.sdf
+[0.234s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/sun/model-1_3.sdf
+[0.234s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/sun/model-1_4.sdf
+[0.234s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/sun/model.config
+[0.234s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/models/sun/model.sdf
+[0.234s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot.urdf.xacro
+[0.235s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot_gazebo.xacro
+[0.235s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/urdf/bumperbot_ros2_control.xacro
+[0.235s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/rviz/display.rviz
+[0.235s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/package_run_dependencies/bumperbot_description
+[0.236s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/parent_prefix_path/bumperbot_description
+[0.236s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.sh
+[0.236s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/ament_prefix_path.dsv
+[0.236s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/path.sh
+[0.236s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/environment/path.dsv
+[0.237s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.bash
+[0.237s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.sh
+[0.237s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.zsh
+[0.237s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/local_setup.dsv
+[0.237s] -- Symlinking: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/package.dsv
+[0.253s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/ament_index/resource_index/packages/bumperbot_description
+[0.253s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig.cmake
+[0.253s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/cmake/bumperbot_descriptionConfig-version.cmake
+[0.253s] -- Up-to-date symlink: /Users/danitruc/bumperbot_ws/install/bumperbot_description/share/bumperbot_description/package.xml
+[0.254s] Invoked command in '/Users/danitruc/bumperbot_ws/build/bumperbot_description' returned '0': SHLVL=2 _=/Users/danitruc/miniforge3/envs/ros2_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/danitruc/miniforge3/envs/ros2_env/bin/cmake --install /Users/danitruc/bumperbot_ws/build/bumperbot_description

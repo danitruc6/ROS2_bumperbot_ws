@@ -1,0 +1,27 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/Users/danitruc/bumperbot_ws/build/bumperbot_py_examples",
+        "/Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/install/turtlesim_catch_them_all/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/install/my_py_pkg/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/install/my_robot_interfaces/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/build/esp32_serial",
+        "/Users/danitruc/ros2_ws/install/esp32_serial/lib/python3.11/site-packages",
+        "/Users/danitruc/miniforge3/envs/ros2_env/lib/python311/site-packages",
+        "/Users/danitruc/miniforge3/envs/ros2_env/lib/python3.11/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/Users/danitruc/bumperbot_ws/build/bumperbot_py_examples",
+        "/Users/danitruc/bumperbot_ws/install/bumperbot_py_examples/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/install/turtlesim_catch_them_all/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/install/my_py_pkg/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/install/my_robot_interfaces/lib/python3.11/site-packages",
+        "/Users/danitruc/ros2_ws/build/esp32_serial",
+        "/Users/danitruc/ros2_ws/install/esp32_serial/lib/python3.11/site-packages",
+        "/Users/danitruc/miniforge3/envs/ros2_env/lib/python311/site-packages",
+        "/Users/danitruc/miniforge3/envs/ros2_env/lib/python3.11/site-packages"
+    ],
+    "files.associations": {
+        "chrono": "cpp"
+    }
+}

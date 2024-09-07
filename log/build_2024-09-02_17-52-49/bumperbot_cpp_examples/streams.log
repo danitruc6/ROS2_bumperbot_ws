@@ -1,0 +1,2 @@
+[0.027s] Invoking command in '/Users/danitruc/bumperbot_ws/build/bumperbot_cpp_examples': SHLVL=2 _=/Users/danitruc/miniforge3/envs/ros2_env/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/danitruc/miniforge3/envs/ros2_env/bin/cmake --build /Users/danitruc/bumperbot_ws/build/bumperbot_cpp_examples -- -j8 -l8
+[0.177s] [100%] Built target simple_publisher
