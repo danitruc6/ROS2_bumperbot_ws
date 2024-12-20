@@ -66,6 +66,17 @@ def generate_launch_description():
         ],
         output="screen",
     )
+    gz_ros2_bridge = Node(
+        package="ros_gz_bridge",
+        executable="parameter_bridge",
+        arguments=[
+            "/clock@rosgraph_msgs/msg/Clock[gz.msgs.Clock",
+            "/imu@sensor_msgs/msg/Imu[gz.msgs.IMU",
+        ],
+        remappings=[
+            ("/imu", "/imu/out"),
+        ],
+    )
 
     return LaunchDescription(
         [
@@ -75,6 +86,6 @@ def generate_launch_description():
             start_gazebo_client,
             robot_state_publisher_node,
             spawn_robot,
+            gz_ros2_bridge,
         ]
     )
-
